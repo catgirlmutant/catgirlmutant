@@ -1,4 +1,4 @@
-<img src="https://lingtalfi.com/services/pngtext?color=F456F7&size=30&text=A%20brief%20Introduction%20of%20myself" alt="A Brief Introduction of Myself">
+<img src="https://lingtalfi.com/services/pngtext?color=F456F7&size=30&text=A%20brief%20Introduction" alt="A Brief Introduction of Myself">
 Hewwo! I'm Esther, aka mutant! I'm from Hong Kong, and currently in year 9 of high school. I'm barely a programmer lol
 <h3> Hobbies </h3>
 I like to play the piano, sing, take photos, and play videogames. I'm also extremely hooked on music (as you may have seen from my <a href="https://open.spotify.com/playlist/3Soa8cZIVTv7qSerC3E57i/"> 19 hour spotify playlist </a> ;P

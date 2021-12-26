@@ -5,3 +5,4 @@ I like to play the piano, sing, take photos, and play videogames. I'm also extre
 <h3> What I plan on doing </h3>
 <body><br>nothing really, I just want to focus on my studies and start a few passion projects here and there, and maybe upload Youtube videos if I have the time and originality? yeah that.</br></body>
 <br><b> anyways, I hope anyone who's reading this have a great day!! :3</b></br>
+<-- links to my other stuff
